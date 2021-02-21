@@ -1,6 +1,6 @@
 # Person Address Rest API Client
 
-### Reference Documentation
+## Reference Documentation
 
 This is a Client for Address-Person-API. It provides the following operations:
 
@@ -13,8 +13,10 @@ This is a Client for Address-Person-API. It provides the following operations:
 *       Count Number of Persons
 *       List Persons
 
-### How to Run this Application
+## How to Run this Application
 
 To Run this application Python is required with the requests dependency. It can be run by running main.py file.
 
 Alternatively, run the main.exe file in the dist folder.
+
+### NOTE: The Person Address Api must be running locally on port 8080 for this application to work.
