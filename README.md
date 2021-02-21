@@ -17,6 +17,6 @@ This is a Client for Address-Person-API. It provides the following operations:
 
 To Run this application Python is required with the requests dependency. It can be run by running main.py file.
 
-Alternatively, on Windows run the main.exe file in the dist folder.
+Alternatively, on Windows run the main.exe file in the dist folder. This does not require Python to be installed.
 
 ### NOTE: The Person Address Api must be running locally on port 8080 for this application to work.
